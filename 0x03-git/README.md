@@ -1,1 +1,1 @@
-My second readme file inside a directory
+My second readme file inside a directory is updated
